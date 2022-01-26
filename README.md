@@ -1,12 +1,12 @@
 # Build an AirBnb Experiences clone
 
-The complete AirBnB clone from "Build an AirBnb Experiences clone" modile on [Scrimba](https://scrimba.com/learn/learnreact).
+The complete AirBnB clone from "Build an AirBnb Experiences clone" module on [Scrimba](https://scrimba.com/learn/learnreact).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 Installs the required dependencies
 
